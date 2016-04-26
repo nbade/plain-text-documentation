@@ -1,12 +1,7 @@
-# Stuff I know about Ebola from the world health organization:
-# http://www.who.int/mediacentre/factsheets/fs103/en/
-# and wikipedia
-# https://en.wikipedia.org/wiki/Ebola_virus_disease
 
-prewriting
-1
-2
-3
-4
-5
-done
+Rough Draft
+According to the World Health Organization Ebola is a virus.  
+
+Quote: The average EVD case fatality rate is around 50%. Case fatality rates have varied from 25% to 90% in past outbreaks.
+
+and so on and so forth.
