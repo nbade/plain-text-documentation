@@ -1,5 +1,5 @@
 
-Revision
+4. Edit
 
-Ebola is a deadly virus.  According the the world health organization Ebola "Case fatality rates have varied from 25% to 90% in past outbreaks."
+Ebola is a deadly virus.  According the the WHO (World Health Organization), Ebola "Case fatality rates have varied from 25% to 90% in past outbreaks." <- citation needed.
 
